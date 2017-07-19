@@ -1,0 +1,33 @@
+# Extension of field grid in X, Y directions
+# GenFieldGrid.EX, GenFieldGrid.EY
+2400
+2000
+# X interval for particle generating field: 0,02373046
+# GenFieldGrid.Xs, GenFieldGrid.Xe
+0.42773438
+0.45146484
+# Y interval for particle generating field: 0,020764153
+# GenFieldGrid.Ys, GenFieldGrid.Ye
+0.32128906
+0.342053213
+# Extension of particle grid in X, Y directions
+# ParticleGrid.EX, ParticleGrid.EY
+1200
+1000
+# X interval for particle grid
+# ParticleGrid.Xs, ParticleGrid.Xe
+0.0
+1200.0
+# Y interval for particle grid
+# ParticleGrid.Ys, ParticleGrid.Ye
+0.0
+1000.0
+# iterations for particle generation
+# MaxIters
+3000
+# iterations for particle dynamics
+# MaxSteps
+10
+# bit of time for particle dynamics
+# TimeBit
+0.001
