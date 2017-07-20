@@ -37,7 +37,7 @@
 //  particles_c.c
 //
 //  Author:
-//  Emanuele Del Sozzo
+//  Emanuele Del Sozzo (emanuele.delsozzo@polimi.it)
 //
 
 #include <stdio.h>
